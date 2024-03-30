@@ -28,7 +28,7 @@ mongoose.connect('mongodb+srv://mathewsgeorge202:ansu@cluster0.ylyaonw.mongodb.n
 
 // Twilio Configuration
 const accountSid = 'ACc07160ca1b3e33d178f16e780fc7d96a';
-const authToken = 'de9f3d74e189a4590ebcca8d10a3437f';
+const authToken = '45bc8f5c090aa60a4bf4110b4365a3c1';
 const client = new twilio(accountSid, authToken);
 
 // Handle POST request to send SMS
